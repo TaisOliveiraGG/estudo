@@ -14,7 +14,5 @@
 A tag <table> no HTML é usada para criar tabelas.
 < b > deixa em negrito</b>
 
-
-
 6.9> fieldset com borda
 form-formulario
